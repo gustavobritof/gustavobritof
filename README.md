@@ -1,4 +1,4 @@
-### Oi! Eu sou o Gustavo👋
+### Opa! Eu sou o Gustavo👋
 
 <div>
   <a href="https://github.com/gustavobritof">
