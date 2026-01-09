@@ -1,4 +1,6 @@
 ### Oi! Meu nome é Gustavo :)
+  <img src="https://komarev.com/ghpvc/?username=gustavobritof&color=blueviolet"/>
+
 
 🎓 Sou estudante de **Ciência da Computação**  
 🧠 Atualmente estou interessado em **WebXR, Realidade Aumentada e WEB 3D**  
@@ -20,7 +22,3 @@ Com algumas ideias legais ainda esperando sair do papel!!
   <img align="center" alt="AFrame" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aframe/aframe-original.svg">
 </div>
 
----
-
-
-![Snake animation](https://github.com/gustavobritof/gustavobritof/blob/output/github-contribution-grid-snake.svg)
