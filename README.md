@@ -1,11 +1,26 @@
-### Opa! Eu sou o Gustavo👋
+### Oi! Meu nome é Gustavo :)
 
-<div>
-  <a href="https://github.com/gustavobritof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavobritof&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobritof&layout=compact&langs_count=7&theme=dracula"/>
+🎓 Sou estudante de **Ciência da Computação**  
+🧠 Atualmente estou interessado em **WebXR, Realidade Aumentada e WEB 3D**  
+
+Atualmente utilizando (e aprendendo):
+- 🌐 Experiências 3D na web (A-Frame / Three.js / WebXR)
+- 🪐 React para experiências mais "comuns" rs.
+
+Com algumas ideias legais ainda esperando sair do papel!!
+
+---
+
+### 🛠️ Tecnologias que uso / estudo hoje
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="AFrame" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aframe/aframe-original.svg">
 </div>
-  
-##
-  
-  ![Snake animation](https://github.com/gustavobritof/gustavobritof/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
+![Snake animation](https://github.com/gustavobritof/gustavobritof/blob/output/github-contribution-grid-snake.svg)
